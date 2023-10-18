@@ -6,7 +6,7 @@ Resource    ../../resources/asserts.robot
 
 
 *** Variables ***
-${URL}  https://www.blablacar.com/
+${URL}                              %{URL=https://www.jc.com.br}
 
 ${ERR_COUNT}                        0
 ${WARN_COUNT}                       0
