@@ -6,7 +6,7 @@ Resource    ../../resources/asserts.robot
 
 
 *** Variables ***
-${URL}  https://dronjo.wopee.io
+${URL}  https://www.blablacar.com/
 
 ${ERR_COUNT}                        0
 ${WARN_COUNT}                       0
